@@ -1,0 +1,69 @@
+﻿User Story ID,Acceptance Criteria ID,Scenario,Test Case ID,Test Case Description,Precondition,Steps,Expected Result,Part of Regression,Priority
+REQ001,AC001,Valid Payment Processing with Maker-Checker,TC001,Verify successful pacs.008 message generation and accounting entry posting after maker and checker approval,User with maker role is logged in; all required fields for pacs.008 are available,"1. Maker logs in
+2. Navigate to payment creation page
+3. Enter valid debtor IBAN: DE89370400440532013000
+4. Enter valid beneficiary IBAN: FR7630006000011234567890189
+5. Enter amount: 1500.00 EUR
+6. Fill all mandatory pacs.008 fields including agents and parties
+7. Submit payment for checker approval
+8. Checker logs in
+9. Review payment details
+10. Approve payment
+11. System generates pacs.008 message and posts accounting entry","pacs.008 message generated with all fields, accounting entry posted successfully, confirmation displayed",Yes,High
+REQ001,AC002,Invalid Amount Entry - Negative Value,TC002,Verify system rejects payment creation when amount is negative,User with maker role is logged in; all required fields except amount are ready,"1. Navigate to payment creation page
+2. Enter debtor IBAN: GB29NWBK60161331926819
+3. Enter beneficiary IBAN: IT60X0542811101000000123456
+4. Enter amount: -500.00 EUR
+5. Fill other mandatory fields
+6. Attempt to submit payment",Error message displayed indicating invalid amount; payment not submitted,Yes,Medium
+REQ001,AC003,Missing Mandatory Field - Debtor IBAN,TC003,Verify payment creation fails when debtor IBAN is missing,User with maker role is logged in; all other fields available,"1. Navigate to payment creation page
+2. Leave debtor IBAN field empty
+3. Enter beneficiary IBAN: ES9121000418450200051332
+4. Enter amount: 1000.00 EUR
+5. Fill other mandatory fields
+6. Attempt to submit payment",Validation error displayed for missing debtor IBAN; payment not submitted,Yes,Medium
+REQ001,AC004,Maker Submits Payment but Checker Rejects,TC004,Verify payment is not processed if checker rejects after maker submission,Maker has submitted payment for checker approval,"1. Checker logs in
+2. Review submitted payment details
+3. Reject the payment
+4. Verify system status of payment",Payment status marked as rejected; no pacs.008 message generated; no accounting entry posted,Yes,High
+REQ001,AC005,Amount Boundary Test - Zero Amount,TC005,Verify system rejects payment when amount is zero,User with maker role is logged in,"1. Navigate to payment creation page
+2. Enter debtor IBAN: NL91ABNA0417164300
+3. Enter beneficiary IBAN: CH9300762011623852957
+4. Enter amount: 0.00 EUR
+5. Fill other mandatory fields
+6. Attempt to submit payment",Error displayed indicating amount must be greater than zero; payment not submitted,Yes,Medium
+REQ001,AC006,Invalid IBAN Format for Beneficiary,TC006,Verify payment creation fails with invalid beneficiary IBAN format,User with maker role is logged in,"1. Navigate to payment creation page
+2. Enter debtor IBAN: DE89370400440532013000
+3. Enter beneficiary IBAN: INVALIDIBAN123
+4. Enter amount: 2000.00 EUR
+5. Fill other mandatory fields
+6. Attempt to submit payment",Validation error displayed for invalid beneficiary IBAN format; payment not submitted,Yes,Medium
+REQ001,AC007,Maximum Length for Instruction Identification,TC007,Verify system accepts instruction identification with exactly 16 characters,User with maker role is logged in,"1. Navigate to payment creation page
+2. Enter instruction identification: 'INSTR123456789012'
+3. Enter valid debtor and beneficiary IBANs
+4. Enter amount: 5000.00 EUR
+5. Fill other mandatory fields
+6. Submit payment for checker approval
+7. Checker approves payment",Payment processed successfully; pacs.008 message generated with instruction ID of 16 characters,Yes,High
+REQ001,AC008,Instruction Identification Exceeds 16 Characters,TC008,Verify system rejects instruction identification longer than 16 characters,User with maker role is logged in,"1. Navigate to payment creation page
+2. Enter instruction identification: 'INSTRUCTIONIDTOOLONG123'
+3. Enter valid debtor and beneficiary IBANs
+4. Enter amount: 1000.00 EUR
+5. Fill other mandatory fields
+6. Attempt to submit payment",Validation error displayed for instruction identification exceeding 16 characters; payment not submitted,Yes,Medium
+REQ001,AC009,Settlement Method Code Validation,TC009,Verify system accepts valid settlement method codes and rejects invalid ones,User with maker role is logged in,"1. Navigate to payment creation page
+2. Enter valid debtor and beneficiary IBANs
+3. Enter amount: 2500.00 EUR
+4. Enter settlement method code: 'CLRG.I'
+5. Submit payment for checker approval
+6. Checker approves payment
+7. Repeat steps 1-5 with invalid settlement method code: 'INVALIDCODE'
+8. Attempt to submit payment",Payment with valid code processed successfully; payment with invalid code rejected with validation error,No,Medium
+REQ001,AC010,Charge Bearer Code Validation,TC010,Verify system processes payments with valid charge bearer codes and rejects invalid codes,User with maker role is logged in,"1. Navigate to payment creation page
+2. Enter valid debtor and beneficiary IBANs
+3. Enter amount: 3000.00 EUR
+4. Select charge bearer code: 'CRED'
+5. Submit payment for checker approval
+6. Checker approves payment
+7. Repeat steps 1-5 with invalid charge bearer code: 'XXXX'
+8. Attempt to submit payment",Payment with valid charge bearer code processed successfully; payment with invalid code rejected with validation error,No,Medium

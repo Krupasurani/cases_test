@@ -1,0 +1,31 @@
+# requirements.txt
+# Core document processing
+python-docx==0.8.11
+PyPDF2==3.0.1
+openpyxl==3.1.2
+pandas==2.1.4
+Pillow>=10.1.0
+
+# OCR capabilities
+pytesseract==0.3.10
+opencv-python==4.8.1.78
+
+# AI and LLM
+openai>=1.0.0
+
+# Web framework
+streamlit>=1.29.0
+
+# Utilities
+xmltodict==0.13.0
+chardet==5.2.0
+python-magic-bin==0.4.14
+
+# Email processing
+email-validator==2.1.0
+
+# Environment management
+python-dotenv==1.0.0
+
+# Fix protobuf conflict
+protobuf>=5.26.1

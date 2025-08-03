@@ -1,0 +1,1109 @@
+2025-07-28 16:08:03,393 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:08:03,395 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:08:03,660 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:08:06,455 - __main__ - ERROR - Missing required packages: python-docx, opencv-python, Pillow
+2025-07-28 16:08:06,455 - __main__ - ERROR - Please install missing packages using: pip install -r requirements.txt
+2025-07-28 16:09:52,403 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:09:52,404 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:09:52,460 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:09:53,687 - __main__ - ERROR - Missing required packages: python-docx, opencv-python, Pillow
+2025-07-28 16:09:53,688 - __main__ - ERROR - Please install missing packages using: pip install -r requirements.txt
+2025-07-28 16:11:14,603 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:11:14,604 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:11:16,111 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:11:17,855 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:11:17,855 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:11:17,856 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:11:17,856 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:11:35,926 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:11:35,929 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:11:35,932 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:11:36,038 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:11:36,039 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:11:36,039 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:11:36,040 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:11:37,481 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:11:37,482 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:11:37,490 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:11:37,570 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:11:37,571 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:11:37,572 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:11:37,572 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:11:39,100 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:11:39,101 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:11:39,102 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:11:39,189 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:11:39,189 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:11:39,190 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:11:39,190 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:13:06,397 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:13:06,398 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:13:07,138 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:13:08,539 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:13:08,539 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:13:08,540 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:13:08,540 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:13:26,968 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:13:26,969 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:13:26,969 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:13:27,199 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:13:27,199 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:13:27,200 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:13:27,206 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:15:20,551 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:15:20,570 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:15:20,571 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:15:20,639 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:15:20,639 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:15:20,640 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:15:20,640 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:15:23,580 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:15:23,581 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:15:23,581 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:15:23,649 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:15:23,650 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:15:23,650 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:15:23,650 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:15:23,660 - __main__ - ERROR - Application error: Client.__init__() got an unexpected keyword argument 'proxies'
+2025-07-28 16:21:19,416 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:21:19,416 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:21:20,322 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:21:20,322 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 16:21:21,399 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 16:21:21,531 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 16:21:21,633 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 16:21:21,967 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 16:21:21,968 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 16:21:21,968 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 16:21:21,969 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 16:21:21,969 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 16:21:21,969 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 16:21:21,969 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:21:21,970 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:21:21,970 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:21:21,970 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:21:36,371 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:21:36,371 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:21:36,372 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:21:36,372 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 16:21:36,373 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 16:21:36,374 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 16:21:36,374 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 16:21:36,374 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 16:21:36,375 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 16:21:36,375 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 16:21:36,375 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 16:21:36,376 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 16:21:36,377 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 16:21:36,378 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:21:36,378 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:21:36,379 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:21:36,379 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:21:41,247 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:21:41,247 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:21:41,247 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:21:41,247 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 16:21:41,247 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 16:21:41,247 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 16:21:41,247 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 16:21:41,247 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 16:21:41,247 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 16:21:41,247 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 16:21:41,247 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 16:21:41,247 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 16:21:41,247 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 16:21:41,252 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:21:41,253 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:21:41,253 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:21:41,253 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:21:43,558 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:21:43,558 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:21:43,559 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:21:43,559 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 16:21:43,559 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 16:21:43,559 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 16:21:43,560 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 16:21:43,560 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 16:21:43,560 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 16:21:43,560 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 16:21:43,560 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 16:21:43,561 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 16:21:43,561 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 16:21:43,561 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:21:43,562 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:21:43,563 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:21:43,564 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:21:43,739 - processors.document_processor - INFO - Processing .docx file: C:\Users\a\AppData\Local\Temp\tmpx55c_eit.docx
+2025-07-28 16:21:43,781 - processors.document_processor - INFO - Processing .png file: C:\Users\a\AppData\Local\Temp\tmpqyowouni.png
+2025-07-28 16:21:45,448 - processors.document_processor - INFO - Processing .pdf file: C:\Users\a\AppData\Local\Temp\tmplib317t2.pdf
+2025-07-28 16:22:24,783 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-28 16:23:32,466 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:23:32,473 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:23:32,473 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:23:32,473 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 16:23:32,473 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 16:23:32,474 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 16:23:32,474 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 16:23:32,474 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 16:23:32,474 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 16:23:32,475 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 16:23:32,475 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 16:23:32,475 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 16:23:32,476 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 16:23:32,476 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:23:32,477 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:23:32,477 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:23:32,478 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:23:32,613 - exporters.excel_exporter - INFO - Excel file exported successfully: C:\Users\a\AppData\Local\Temp\tmp7l7i3x1o.xlsx
+2025-07-28 16:27:11,525 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:27:11,526 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:27:11,526 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:27:11,526 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 16:27:11,527 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 16:27:11,527 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 16:27:11,527 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 16:27:11,527 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 16:27:11,527 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 16:27:11,528 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 16:27:11,528 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 16:27:11,528 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 16:27:11,528 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 16:27:11,529 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:27:11,529 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:27:11,529 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:27:11,530 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:27:11,608 - exporters.excel_exporter - INFO - Excel file exported successfully: C:\Users\a\AppData\Local\Temp\tmp34jdrol3.xlsx
+2025-07-28 16:27:15,855 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:27:15,856 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:27:15,856 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:27:15,856 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 16:27:15,857 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 16:27:15,857 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 16:27:15,857 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 16:27:15,858 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 16:27:15,859 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 16:27:15,859 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 16:27:15,860 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 16:27:15,861 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 16:27:15,862 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 16:27:15,863 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:27:15,864 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:27:15,865 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:27:15,866 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:27:17,794 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:27:17,794 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:27:17,794 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:27:17,794 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 16:27:17,794 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 16:27:17,794 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 16:27:17,794 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 16:27:17,794 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 16:27:17,794 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 16:27:17,794 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 16:27:17,794 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 16:27:17,794 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 16:27:17,794 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 16:27:17,794 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:27:17,794 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:27:17,794 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:27:17,794 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:27:17,898 - exporters.excel_exporter - INFO - Excel file exported successfully: C:\Users\a\AppData\Local\Temp\tmpy12cy8tm.xlsx
+2025-07-28 16:28:25,423 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:28:25,424 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:28:25,424 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:28:25,424 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 16:28:25,424 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 16:28:25,425 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 16:28:25,425 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 16:28:25,425 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 16:28:25,425 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 16:28:25,426 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 16:28:25,426 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 16:28:25,426 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 16:28:25,426 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 16:28:25,427 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:28:25,427 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:28:25,428 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:28:25,428 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:28:26,020 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:28:26,020 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:28:26,020 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:28:26,021 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 16:28:26,021 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 16:28:26,021 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 16:28:26,022 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 16:28:26,022 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 16:28:26,022 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 16:28:26,022 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 16:28:26,022 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 16:28:26,023 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 16:28:26,023 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 16:28:26,023 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:28:26,024 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:28:26,024 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:28:26,024 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:28:28,172 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:28:28,172 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:28:28,172 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:28:28,172 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 16:28:28,173 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 16:28:28,173 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 16:28:28,173 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 16:28:28,173 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 16:28:28,173 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 16:28:28,174 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 16:28:28,174 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 16:28:28,174 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 16:28:28,174 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 16:28:28,175 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:28:28,175 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:28:28,176 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:28:28,176 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 16:28:29,333 - __main__ - INFO - Checking environment setup...
+2025-07-28 16:28:29,333 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 16:28:29,333 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 16:28:29,333 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 16:28:29,333 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 16:28:29,333 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 16:28:29,333 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 16:28:29,333 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 16:28:29,333 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 16:28:29,333 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 16:28:29,333 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 16:28:29,333 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 16:28:29,333 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 16:28:29,333 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 16:28:29,333 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 16:28:29,333 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 16:28:29,333 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 17:05:03,902 - __main__ - INFO - Checking environment setup...
+2025-07-28 17:05:03,902 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 17:05:07,387 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 17:05:07,388 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 17:05:09,452 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 17:05:09,679 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 17:05:09,847 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 17:05:10,244 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 17:05:10,244 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 17:05:10,244 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 17:05:10,244 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 17:05:10,244 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 17:05:10,244 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 17:05:10,244 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 17:05:10,244 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 17:05:10,244 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 17:05:10,244 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 17:06:07,703 - __main__ - INFO - Checking environment setup...
+2025-07-28 17:06:07,703 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 17:06:07,703 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 17:06:07,703 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 17:06:07,703 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 17:06:07,703 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 17:06:07,703 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 17:06:07,703 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 17:06:07,703 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 17:06:07,703 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 17:06:07,703 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 17:06:07,703 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 17:06:07,717 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 17:06:07,718 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 17:06:07,720 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 17:06:07,722 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 17:06:07,722 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 17:06:10,116 - __main__ - INFO - Checking environment setup...
+2025-07-28 17:06:10,116 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 17:06:10,116 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 17:06:10,121 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 17:06:10,122 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 17:06:10,122 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 17:06:10,122 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 17:06:10,123 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 17:06:10,123 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 17:06:10,123 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 17:06:10,124 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 17:06:10,124 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 17:06:10,124 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 17:06:10,125 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 17:06:10,125 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 17:06:10,126 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 17:06:10,126 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 17:06:10,523 - __main__ - INFO - Checking environment setup...
+2025-07-28 17:06:10,524 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 17:06:10,525 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 17:06:10,526 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 17:06:10,531 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 17:06:10,533 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 17:06:10,536 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 17:06:10,541 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 17:06:10,542 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 17:06:10,542 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 17:06:10,544 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 17:06:10,544 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 17:06:10,545 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 17:06:10,545 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 17:06:10,546 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 17:06:10,546 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 17:06:10,547 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 17:06:10,900 - __main__ - INFO - Checking environment setup...
+2025-07-28 17:06:10,900 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 17:06:10,900 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 17:06:10,900 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 17:06:10,900 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 17:06:10,900 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 17:06:10,900 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 17:06:10,900 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 17:06:10,900 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 17:06:10,900 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 17:06:10,900 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 17:06:10,904 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 17:06:10,905 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 17:06:10,906 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 17:06:10,907 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 17:06:10,908 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 17:06:10,908 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 17:06:15,028 - __main__ - INFO - Checking environment setup...
+2025-07-28 17:06:15,029 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 17:06:15,029 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 17:06:15,029 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 17:06:15,030 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 17:06:15,030 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 17:06:15,031 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 17:06:15,031 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 17:06:15,031 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 17:06:15,031 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 17:06:15,032 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 17:06:15,032 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 17:06:15,033 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 17:06:15,033 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 17:06:15,034 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 17:06:15,034 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 17:06:15,035 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 17:06:18,048 - __main__ - INFO - Checking environment setup...
+2025-07-28 17:06:18,048 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 17:06:18,048 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 17:06:18,048 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 17:06:18,048 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 17:06:18,048 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 17:06:18,048 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 17:06:18,048 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 17:06:18,048 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 17:06:18,048 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 17:06:18,048 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 17:06:18,048 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 17:06:18,048 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 17:06:18,058 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 17:06:18,058 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 17:06:18,060 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 17:06:18,060 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 17:06:18,257 - processors.document_processor - INFO - Processing .docx file: C:\Users\a\AppData\Local\Temp\tmpfier8l2o.docx
+2025-07-28 17:06:18,295 - processors.document_processor - INFO - Processing .png file: C:\Users\a\AppData\Local\Temp\tmp6fbqnxb3.png
+2025-07-28 17:06:22,823 - processors.document_processor - INFO - Processing .pdf file: C:\Users\a\AppData\Local\Temp\tmpkcy2gqxo.pdf
+2025-07-28 17:07:05,932 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-28 17:07:05,995 - ai_engine.test_generator - ERROR - No valid JSON found in response
+2025-07-28 17:14:19,334 - __main__ - INFO - Checking environment setup...
+2025-07-28 17:14:19,334 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 17:14:20,292 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 17:14:20,292 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 17:14:21,523 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 17:14:21,643 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 17:14:21,729 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 17:14:22,044 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 17:14:22,044 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 17:14:22,044 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 17:14:22,044 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 17:14:22,044 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 17:14:22,044 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 17:14:22,044 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 17:14:22,044 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 17:14:22,044 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 17:14:22,044 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 17:14:43,968 - __main__ - INFO - Checking environment setup...
+2025-07-28 17:14:43,970 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 17:14:43,970 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 17:14:43,971 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 17:14:43,971 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 17:14:43,972 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 17:14:43,975 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 17:14:43,975 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 17:14:43,976 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 17:14:43,976 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 17:14:43,977 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 17:14:43,977 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 17:14:43,977 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 17:14:43,990 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 17:14:43,991 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 17:14:43,992 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 17:14:43,992 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 17:14:45,750 - __main__ - INFO - Checking environment setup...
+2025-07-28 17:14:45,763 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 17:14:45,766 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 17:14:45,766 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 17:14:45,767 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 17:14:45,769 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 17:14:45,770 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 17:14:45,779 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 17:14:45,779 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 17:14:45,781 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 17:14:45,785 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 17:14:45,788 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 17:14:45,788 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 17:14:45,789 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 17:14:45,790 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 17:14:45,791 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 17:14:45,791 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 17:14:45,949 - processors.document_processor - INFO - Processing .docx file: C:\Users\a\AppData\Local\Temp\tmpfxvr_2qr.docx
+2025-07-28 17:14:45,998 - processors.document_processor - INFO - Processing .png file: C:\Users\a\AppData\Local\Temp\tmpafotnnue.png
+2025-07-28 17:14:49,650 - processors.document_processor - INFO - Processing .pdf file: C:\Users\a\AppData\Local\Temp\tmp3ewfmewj.pdf
+2025-07-28 17:15:31,294 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-28 17:15:31,368 - ai_engine.test_generator - INFO - AI Response length: 6541
+2025-07-28 17:15:31,369 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "REQ001",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Payment Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify successful pac...
+2025-07-28 17:15:31,370 - ai_engine.test_generator - INFO - Successfully parsed 10 test cases using Method 1
+2025-07-28 17:17:46,592 - __main__ - INFO - Checking environment setup...
+2025-07-28 17:17:46,593 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 17:17:46,593 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 17:17:46,593 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 17:17:46,594 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 17:17:46,594 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 17:17:46,594 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 17:17:46,595 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 17:17:46,595 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 17:17:46,595 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 17:17:46,595 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 17:17:46,596 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 17:17:46,596 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 17:17:46,596 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 17:17:46,597 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 17:17:46,597 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 17:17:46,598 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 17:27:41,954 - __main__ - INFO - Checking environment setup...
+2025-07-28 17:27:41,954 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 17:27:43,005 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 17:27:43,005 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 17:27:44,414 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 17:27:44,549 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 17:27:44,657 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 17:27:45,027 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 17:27:45,027 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 17:27:45,028 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 17:27:45,028 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 17:27:45,028 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 17:27:45,028 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 17:27:45,029 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 17:27:45,029 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 17:27:45,029 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 17:27:45,029 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 17:27:59,606 - __main__ - INFO - Checking environment setup...
+2025-07-28 17:27:59,606 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 17:27:59,606 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 17:27:59,606 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 17:27:59,606 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 17:27:59,606 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 17:27:59,606 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 17:27:59,606 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 17:27:59,606 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 17:27:59,606 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 17:27:59,606 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 17:27:59,606 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 17:27:59,606 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 17:27:59,616 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 17:27:59,618 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 17:27:59,619 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 17:27:59,620 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 17:28:03,168 - __main__ - INFO - Checking environment setup...
+2025-07-28 17:28:03,168 - __main__ - INFO - Python version: 3.12.9
+2025-07-28 17:28:03,168 - __main__ - INFO - OCR dependencies loaded successfully
+2025-07-28 17:28:03,168 - __main__ - INFO - OK streamlit loaded successfully
+2025-07-28 17:28:03,168 - __main__ - INFO - OK openai loaded successfully
+2025-07-28 17:28:03,168 - __main__ - INFO - OK python-docx loaded successfully
+2025-07-28 17:28:03,168 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-07-28 17:28:03,168 - __main__ - INFO - OK openpyxl loaded successfully
+2025-07-28 17:28:03,168 - __main__ - INFO - OK pandas loaded successfully
+2025-07-28 17:28:03,168 - __main__ - INFO - OK pytesseract loaded successfully
+2025-07-28 17:28:03,168 - __main__ - INFO - OK opencv-python loaded successfully
+2025-07-28 17:28:03,168 - __main__ - INFO - OK Pillow loaded successfully
+2025-07-28 17:28:03,168 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-07-28 17:28:03,176 - __main__ - INFO - Directory created/verified: temp
+2025-07-28 17:28:03,177 - __main__ - INFO - Directory created/verified: outputs
+2025-07-28 17:28:03,178 - __main__ - INFO - Directory created/verified: logs
+2025-07-28 17:28:03,178 - __main__ - INFO - Starting ITASSIST application...
+2025-07-28 17:28:03,365 - processors.document_processor - INFO - Processing .docx file: C:\Users\a\AppData\Local\Temp\tmp9289xsje.docx
+2025-07-28 17:28:03,388 - processors.document_processor - INFO - Processing .png file: C:\Users\a\AppData\Local\Temp\tmp1metk8jk.png
+2025-07-28 17:28:07,255 - processors.document_processor - INFO - Processing .pdf file: C:\Users\a\AppData\Local\Temp\tmpdqd3pi4o.pdf
+2025-07-28 17:28:29,556 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-28 17:28:29,589 - ai_engine.test_generator - INFO - AI Response length: 5537
+2025-07-28 17:28:29,589 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "REQ001",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Payment Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify successful pac...
+2025-07-28 17:28:29,589 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-01 16:22:59,928 - __main__ - INFO - Checking environment setup...
+2025-08-01 16:22:59,929 - __main__ - INFO - Python version: 3.12.9
+2025-08-01 16:23:04,141 - __main__ - INFO - OCR dependencies loaded successfully
+2025-08-01 16:23:04,141 - __main__ - INFO - OK streamlit loaded successfully
+2025-08-01 16:23:06,359 - __main__ - INFO - OK openai loaded successfully
+2025-08-01 16:23:06,617 - __main__ - INFO - OK python-docx loaded successfully
+2025-08-01 16:23:06,842 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-08-01 16:23:07,294 - __main__ - INFO - OK openpyxl loaded successfully
+2025-08-01 16:23:07,294 - __main__ - INFO - OK pandas loaded successfully
+2025-08-01 16:23:07,294 - __main__ - INFO - OK pytesseract loaded successfully
+2025-08-01 16:23:07,294 - __main__ - INFO - OK opencv-python loaded successfully
+2025-08-01 16:23:07,294 - __main__ - INFO - OK Pillow loaded successfully
+2025-08-01 16:23:07,294 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-08-01 16:23:07,294 - __main__ - INFO - Directory created/verified: temp
+2025-08-01 16:23:07,294 - __main__ - INFO - Directory created/verified: outputs
+2025-08-01 16:23:07,294 - __main__ - INFO - Directory created/verified: logs
+2025-08-01 16:23:07,294 - __main__ - INFO - Starting ITASSIST application...
+2025-08-01 16:23:29,388 - __main__ - INFO - Checking environment setup...
+2025-08-01 16:23:29,388 - __main__ - INFO - Python version: 3.12.9
+2025-08-01 16:23:29,422 - __main__ - INFO - OCR dependencies loaded successfully
+2025-08-01 16:23:29,423 - __main__ - INFO - OK streamlit loaded successfully
+2025-08-01 16:23:29,424 - __main__ - INFO - OK openai loaded successfully
+2025-08-01 16:23:29,433 - __main__ - INFO - OK python-docx loaded successfully
+2025-08-01 16:23:29,445 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-08-01 16:23:29,447 - __main__ - INFO - OK openpyxl loaded successfully
+2025-08-01 16:23:29,447 - __main__ - INFO - OK pandas loaded successfully
+2025-08-01 16:23:29,491 - __main__ - INFO - OK pytesseract loaded successfully
+2025-08-01 16:23:29,494 - __main__ - INFO - OK opencv-python loaded successfully
+2025-08-01 16:23:29,496 - __main__ - INFO - OK Pillow loaded successfully
+2025-08-01 16:23:29,497 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-08-01 16:23:29,498 - __main__ - INFO - Directory created/verified: temp
+2025-08-01 16:23:29,499 - __main__ - INFO - Directory created/verified: outputs
+2025-08-01 16:23:29,506 - __main__ - INFO - Directory created/verified: logs
+2025-08-01 16:23:29,507 - __main__ - INFO - Starting ITASSIST application...
+2025-08-01 16:23:35,169 - __main__ - INFO - Checking environment setup...
+2025-08-01 16:23:35,169 - __main__ - INFO - Python version: 3.12.9
+2025-08-01 16:23:35,169 - __main__ - INFO - OCR dependencies loaded successfully
+2025-08-01 16:23:35,170 - __main__ - INFO - OK streamlit loaded successfully
+2025-08-01 16:23:35,170 - __main__ - INFO - OK openai loaded successfully
+2025-08-01 16:23:35,170 - __main__ - INFO - OK python-docx loaded successfully
+2025-08-01 16:23:35,171 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-08-01 16:23:35,171 - __main__ - INFO - OK openpyxl loaded successfully
+2025-08-01 16:23:35,171 - __main__ - INFO - OK pandas loaded successfully
+2025-08-01 16:23:35,171 - __main__ - INFO - OK pytesseract loaded successfully
+2025-08-01 16:23:35,172 - __main__ - INFO - OK opencv-python loaded successfully
+2025-08-01 16:23:35,172 - __main__ - INFO - OK Pillow loaded successfully
+2025-08-01 16:23:35,172 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-08-01 16:23:35,173 - __main__ - INFO - Directory created/verified: temp
+2025-08-01 16:23:35,173 - __main__ - INFO - Directory created/verified: outputs
+2025-08-01 16:23:35,174 - __main__ - INFO - Directory created/verified: logs
+2025-08-01 16:23:35,174 - __main__ - INFO - Starting ITASSIST application...
+2025-08-01 16:23:35,484 - processors.document_processor - INFO - Processing .pdf file: C:\Users\a\AppData\Local\Temp\tmpc20ma78l\itassit\CBPR-PDF.pdf
+2025-08-01 16:23:58,726 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-01 16:23:58,756 - ai_engine.test_generator - INFO - AI Response length: 6344
+2025-08-01 16:23:58,757 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US001",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Payment Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify successful proc...
+2025-08-01 16:23:58,758 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-01 16:24:26,843 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-01 16:24:26,844 - ai_engine.test_generator - INFO - AI Response length: 4618
+2025-08-01 16:24:26,844 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US002",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Payment Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify successful paym...
+2025-08-01 16:24:26,845 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-01 16:24:56,781 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-01 16:24:56,781 - ai_engine.test_generator - INFO - AI Response length: 5727
+2025-08-01 16:24:56,781 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US003",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Payment Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify successful FI t...
+2025-08-01 16:24:56,781 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-01 16:25:25,427 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-01 16:25:25,428 - ai_engine.test_generator - INFO - AI Response length: 5511
+2025-08-01 16:25:25,428 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US004",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid PACS.008 Message Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify succes...
+2025-08-01 16:25:25,429 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-01 16:25:48,110 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-01 16:25:48,110 - ai_engine.test_generator - INFO - AI Response length: 5449
+2025-08-01 16:25:48,110 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US005",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Multiple pacs.008 Messages Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Ver...
+2025-08-01 16:25:48,110 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-01 16:26:07,728 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-01 16:26:07,744 - ai_engine.test_generator - INFO - AI Response length: 5544
+2025-08-01 16:26:07,744 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US006",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Multiple pacs.008 Messages Exchange",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verif...
+2025-08-01 16:26:07,744 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-01 16:26:26,996 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-01 16:26:26,996 - ai_engine.test_generator - INFO - AI Response length: 4640
+2025-08-01 16:26:26,996 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US007",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Payment Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify successful paym...
+2025-08-01 16:26:26,996 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-01 16:26:51,802 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-01 16:26:51,802 - ai_engine.test_generator - INFO - AI Response length: 5431
+2025-08-01 16:26:51,802 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US008",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Payment Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify successful paym...
+2025-08-01 16:26:51,811 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-01 16:27:07,132 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-01 16:27:07,132 - ai_engine.test_generator - INFO - AI Response length: 5642
+2025-08-01 16:27:07,132 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US009",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "In-house Payment Without pacs.008",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify that n...
+2025-08-01 16:27:07,132 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-01 16:27:29,804 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-01 16:27:29,807 - ai_engine.test_generator - INFO - AI Response length: 5882
+2025-08-01 16:27:29,807 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US010",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Payment Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify successful pacs...
+2025-08-01 16:27:29,808 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-01 16:30:17,962 - __main__ - INFO - Checking environment setup...
+2025-08-01 16:30:17,962 - __main__ - INFO - Python version: 3.12.9
+2025-08-01 16:30:17,962 - __main__ - INFO - OCR dependencies loaded successfully
+2025-08-01 16:30:17,963 - __main__ - INFO - OK streamlit loaded successfully
+2025-08-01 16:30:17,963 - __main__ - INFO - OK openai loaded successfully
+2025-08-01 16:30:17,963 - __main__ - INFO - OK python-docx loaded successfully
+2025-08-01 16:30:17,964 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-08-01 16:30:17,964 - __main__ - INFO - OK openpyxl loaded successfully
+2025-08-01 16:30:17,964 - __main__ - INFO - OK pandas loaded successfully
+2025-08-01 16:30:17,964 - __main__ - INFO - OK pytesseract loaded successfully
+2025-08-01 16:30:17,965 - __main__ - INFO - OK opencv-python loaded successfully
+2025-08-01 16:30:17,965 - __main__ - INFO - OK Pillow loaded successfully
+2025-08-01 16:30:17,965 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-08-01 16:30:17,965 - __main__ - INFO - Directory created/verified: temp
+2025-08-01 16:30:17,966 - __main__ - INFO - Directory created/verified: outputs
+2025-08-01 16:30:17,966 - __main__ - INFO - Directory created/verified: logs
+2025-08-01 16:30:17,967 - __main__ - INFO - Starting ITASSIST application...
+2025-08-01 16:30:24,066 - __main__ - INFO - Checking environment setup...
+2025-08-01 16:30:24,067 - __main__ - INFO - Python version: 3.12.9
+2025-08-01 16:30:24,067 - __main__ - INFO - OCR dependencies loaded successfully
+2025-08-01 16:30:24,068 - __main__ - INFO - OK streamlit loaded successfully
+2025-08-01 16:30:24,068 - __main__ - INFO - OK openai loaded successfully
+2025-08-01 16:30:24,069 - __main__ - INFO - OK python-docx loaded successfully
+2025-08-01 16:30:24,069 - __main__ - INFO - OK PyPDF2 loaded successfully
+2025-08-01 16:30:24,070 - __main__ - INFO - OK openpyxl loaded successfully
+2025-08-01 16:30:24,071 - __main__ - INFO - OK pandas loaded successfully
+2025-08-01 16:30:24,077 - __main__ - INFO - OK pytesseract loaded successfully
+2025-08-01 16:30:24,077 - __main__ - INFO - OK opencv-python loaded successfully
+2025-08-01 16:30:24,083 - __main__ - INFO - OK Pillow loaded successfully
+2025-08-01 16:30:24,085 - __main__ - INFO - OK All dependencies checked and loaded successfully
+2025-08-01 16:30:24,086 - __main__ - INFO - Directory created/verified: temp
+2025-08-01 16:30:24,087 - __main__ - INFO - Directory created/verified: outputs
+2025-08-01 16:30:24,087 - __main__ - INFO - Directory created/verified: logs
+2025-08-01 16:30:24,088 - __main__ - INFO - Starting ITASSIST application...
+2025-08-03 11:43:25,183 - __main__ - INFO - ============================================================
+2025-08-03 11:43:25,210 - __main__ - INFO - Starting ITASSIST Enhanced Application
+2025-08-03 11:43:25,211 - __main__ - INFO - ============================================================
+2025-08-03 11:43:25,220 - __main__ - INFO - Validating system requirements...
+2025-08-03 11:43:25,227 - __main__ - INFO - Checking environment setup...
+2025-08-03 11:43:25,227 - __main__ - INFO - ✓ Python version: 3.12.9
+2025-08-03 11:43:28,926 - __main__ - INFO - ✓ OCR dependencies loaded successfully
+2025-08-03 11:43:28,926 - __main__ - WARNING - OpenAI API key not found in environment - will need to be provided in UI
+2025-08-03 11:43:28,927 - __main__ - INFO - Checking dependencies...
+2025-08-03 11:43:28,927 - __main__ - INFO - ✓ streamlit loaded successfully
+2025-08-03 11:43:31,771 - __main__ - INFO - ✓ openai loaded successfully
+2025-08-03 11:43:32,033 - __main__ - INFO - ✓ python-docx loaded successfully
+2025-08-03 11:43:32,263 - __main__ - INFO - ✓ PyPDF2 loaded successfully
+2025-08-03 11:43:32,722 - __main__ - INFO - ✓ openpyxl loaded successfully
+2025-08-03 11:43:32,722 - __main__ - INFO - ✓ pandas loaded successfully
+2025-08-03 11:43:32,722 - __main__ - INFO - ✓ pytesseract loaded successfully
+2025-08-03 11:43:32,723 - __main__ - INFO - ✓ opencv-python loaded successfully
+2025-08-03 11:43:32,723 - __main__ - INFO - ✓ Pillow loaded successfully
+2025-08-03 11:43:32,731 - __main__ - INFO - ✓ python-dotenv loaded successfully
+2025-08-03 11:43:32,732 - __main__ - INFO - ✓ All 10 dependencies loaded successfully
+2025-08-03 11:43:32,732 - __main__ - INFO - Checking file system permissions...
+2025-08-03 11:43:32,755 - __main__ - INFO - ✓ Write permissions OK for temp
+2025-08-03 11:43:32,757 - __main__ - INFO - ✓ Write permissions OK for outputs
+2025-08-03 11:43:32,759 - __main__ - INFO - ✓ Write permissions OK for logs
+2025-08-03 11:43:32,760 - __main__ - INFO - ✓ Directory verified: temp
+2025-08-03 11:43:32,761 - __main__ - INFO - ✓ Directory verified: outputs
+2025-08-03 11:43:32,761 - __main__ - INFO - ✓ Directory verified: logs
+2025-08-03 11:43:32,762 - __main__ - INFO - ✓ Directory verified: input
+2025-08-03 11:43:32,762 - __main__ - INFO - Checking enhanced features dependencies...
+2025-08-03 11:43:32,789 - __main__ - INFO - ✓ PACS.008 configuration loaded
+2025-08-03 11:43:32,816 - __main__ - INFO - ✓ Enhanced test generator loaded
+2025-08-03 11:43:32,816 - __main__ - INFO - ✓ All system requirements validated successfully
+2025-08-03 11:43:32,817 - __main__ - INFO - Loading application configuration...
+2025-08-03 11:43:32,828 - __main__ - INFO - ✓ Environment variables loaded
+2025-08-03 11:43:32,849 - __main__ - WARNING - Could not load settings: mutable default <class 'list'> for field SUPPORTED_FORMATS is not allowed: use default_factory
+2025-08-03 11:43:32,849 - __main__ - INFO - 🏦 Enhanced PACS.008 features: ENABLED
+2025-08-03 11:43:32,849 - __main__ - INFO - Checking dependencies...
+2025-08-03 11:43:32,850 - __main__ - INFO - ✓ streamlit loaded successfully
+2025-08-03 11:43:32,850 - __main__ - INFO - ✓ openai loaded successfully
+2025-08-03 11:43:32,851 - __main__ - INFO - ✓ python-docx loaded successfully
+2025-08-03 11:43:32,852 - __main__ - INFO - ✓ PyPDF2 loaded successfully
+2025-08-03 11:43:32,852 - __main__ - INFO - ✓ openpyxl loaded successfully
+2025-08-03 11:43:32,852 - __main__ - INFO - ✓ pandas loaded successfully
+2025-08-03 11:43:32,852 - __main__ - INFO - ✓ pytesseract loaded successfully
+2025-08-03 11:43:32,852 - __main__ - INFO - ✓ opencv-python loaded successfully
+2025-08-03 11:43:32,853 - __main__ - INFO - ✓ Pillow loaded successfully
+2025-08-03 11:43:32,853 - __main__ - INFO - ✓ python-dotenv loaded successfully
+2025-08-03 11:43:32,854 - __main__ - INFO - ✓ All 10 dependencies loaded successfully
+2025-08-03 11:43:32,854 - __main__ - INFO - Checking file system permissions...
+2025-08-03 11:43:32,856 - __main__ - INFO - ✓ Write permissions OK for temp
+2025-08-03 11:43:32,858 - __main__ - INFO - ✓ Write permissions OK for outputs
+2025-08-03 11:43:32,861 - __main__ - INFO - ✓ Write permissions OK for logs
+2025-08-03 11:43:32,862 - __main__ - INFO - Initializing Streamlit application...
+2025-08-03 11:43:32,971 - __main__ - INFO - ✓ Streamlit app imported successfully
+2025-08-03 11:43:32,972 - __main__ - INFO - 🌐 Starting web interface...
+2025-08-03 11:43:56,268 - __main__ - INFO - ============================================================
+2025-08-03 11:43:56,269 - __main__ - INFO - Starting ITASSIST Enhanced Application
+2025-08-03 11:43:56,271 - __main__ - INFO - ============================================================
+2025-08-03 11:43:56,274 - __main__ - INFO - Validating system requirements...
+2025-08-03 11:43:56,287 - __main__ - INFO - Checking environment setup...
+2025-08-03 11:43:56,290 - __main__ - INFO - ✓ Python version: 3.12.9
+2025-08-03 11:43:56,291 - __main__ - INFO - ✓ OCR dependencies loaded successfully
+2025-08-03 11:43:56,301 - __main__ - INFO - ✓ OpenAI API key detected: sk-proj-...C2EA
+2025-08-03 11:43:56,309 - __main__ - INFO - Checking dependencies...
+2025-08-03 11:43:56,310 - __main__ - INFO - ✓ streamlit loaded successfully
+2025-08-03 11:43:56,317 - __main__ - INFO - ✓ openai loaded successfully
+2025-08-03 11:43:56,320 - __main__ - INFO - ✓ python-docx loaded successfully
+2025-08-03 11:43:56,322 - __main__ - INFO - ✓ PyPDF2 loaded successfully
+2025-08-03 11:43:56,322 - __main__ - INFO - ✓ openpyxl loaded successfully
+2025-08-03 11:43:56,322 - __main__ - INFO - ✓ pandas loaded successfully
+2025-08-03 11:43:56,323 - __main__ - INFO - ✓ pytesseract loaded successfully
+2025-08-03 11:43:56,323 - __main__ - INFO - ✓ opencv-python loaded successfully
+2025-08-03 11:43:56,323 - __main__ - INFO - ✓ Pillow loaded successfully
+2025-08-03 11:43:56,323 - __main__ - INFO - ✓ python-dotenv loaded successfully
+2025-08-03 11:43:56,324 - __main__ - INFO - ✓ All 10 dependencies loaded successfully
+2025-08-03 11:43:56,324 - __main__ - INFO - Checking file system permissions...
+2025-08-03 11:43:56,325 - __main__ - INFO - ✓ Write permissions OK for temp
+2025-08-03 11:43:56,332 - __main__ - INFO - ✓ Write permissions OK for outputs
+2025-08-03 11:43:56,338 - __main__ - INFO - ✓ Write permissions OK for logs
+2025-08-03 11:43:56,339 - __main__ - INFO - ✓ Directory verified: temp
+2025-08-03 11:43:56,340 - __main__ - INFO - ✓ Directory verified: outputs
+2025-08-03 11:43:56,341 - __main__ - INFO - ✓ Directory verified: logs
+2025-08-03 11:43:56,342 - __main__ - INFO - ✓ Directory verified: input
+2025-08-03 11:43:56,347 - __main__ - INFO - Checking enhanced features dependencies...
+2025-08-03 11:43:56,348 - __main__ - INFO - ✓ PACS.008 configuration loaded
+2025-08-03 11:43:56,350 - __main__ - INFO - ✓ Enhanced test generator loaded
+2025-08-03 11:43:56,351 - __main__ - INFO - ✓ All system requirements validated successfully
+2025-08-03 11:43:56,352 - __main__ - INFO - Loading application configuration...
+2025-08-03 11:43:56,355 - __main__ - INFO - ✓ Environment variables loaded
+2025-08-03 11:43:56,359 - __main__ - WARNING - Could not load settings: mutable default <class 'list'> for field SUPPORTED_FORMATS is not allowed: use default_factory
+2025-08-03 11:43:56,366 - __main__ - INFO - 🏦 Enhanced PACS.008 features: ENABLED
+2025-08-03 11:43:56,374 - __main__ - INFO - Checking dependencies...
+2025-08-03 11:43:56,385 - __main__ - INFO - ✓ streamlit loaded successfully
+2025-08-03 11:43:56,386 - __main__ - INFO - ✓ openai loaded successfully
+2025-08-03 11:43:56,386 - __main__ - INFO - ✓ python-docx loaded successfully
+2025-08-03 11:43:56,391 - __main__ - INFO - ✓ PyPDF2 loaded successfully
+2025-08-03 11:43:56,392 - __main__ - INFO - ✓ openpyxl loaded successfully
+2025-08-03 11:43:56,392 - __main__ - INFO - ✓ pandas loaded successfully
+2025-08-03 11:43:56,396 - __main__ - INFO - ✓ pytesseract loaded successfully
+2025-08-03 11:43:56,396 - __main__ - INFO - ✓ opencv-python loaded successfully
+2025-08-03 11:43:56,398 - __main__ - INFO - ✓ Pillow loaded successfully
+2025-08-03 11:43:56,399 - __main__ - INFO - ✓ python-dotenv loaded successfully
+2025-08-03 11:43:56,399 - __main__ - INFO - ✓ All 10 dependencies loaded successfully
+2025-08-03 11:43:56,400 - __main__ - INFO - Checking file system permissions...
+2025-08-03 11:43:56,401 - __main__ - INFO - ✓ Write permissions OK for temp
+2025-08-03 11:43:56,403 - __main__ - INFO - ✓ Write permissions OK for outputs
+2025-08-03 11:43:56,406 - __main__ - INFO - ✓ Write permissions OK for logs
+2025-08-03 11:43:56,409 - __main__ - INFO - Initializing Streamlit application...
+2025-08-03 11:43:56,411 - __main__ - INFO - ✓ Streamlit app imported successfully
+2025-08-03 11:43:56,412 - __main__ - INFO - 🌐 Starting web interface...
+2025-08-03 11:44:20,824 - __main__ - INFO - ============================================================
+2025-08-03 11:44:20,824 - __main__ - INFO - Starting ITASSIST Enhanced Application
+2025-08-03 11:44:20,825 - __main__ - INFO - ============================================================
+2025-08-03 11:44:20,825 - __main__ - INFO - Validating system requirements...
+2025-08-03 11:44:20,825 - __main__ - INFO - Checking environment setup...
+2025-08-03 11:44:20,825 - __main__ - INFO - ✓ Python version: 3.12.9
+2025-08-03 11:44:20,826 - __main__ - INFO - ✓ OCR dependencies loaded successfully
+2025-08-03 11:44:20,826 - __main__ - INFO - ✓ OpenAI API key detected: sk-proj-...C2EA
+2025-08-03 11:44:20,826 - __main__ - INFO - Checking dependencies...
+2025-08-03 11:44:20,826 - __main__ - INFO - ✓ streamlit loaded successfully
+2025-08-03 11:44:20,827 - __main__ - INFO - ✓ openai loaded successfully
+2025-08-03 11:44:20,827 - __main__ - INFO - ✓ python-docx loaded successfully
+2025-08-03 11:44:20,827 - __main__ - INFO - ✓ PyPDF2 loaded successfully
+2025-08-03 11:44:20,827 - __main__ - INFO - ✓ openpyxl loaded successfully
+2025-08-03 11:44:20,828 - __main__ - INFO - ✓ pandas loaded successfully
+2025-08-03 11:44:20,831 - __main__ - INFO - ✓ pytesseract loaded successfully
+2025-08-03 11:44:20,832 - __main__ - INFO - ✓ opencv-python loaded successfully
+2025-08-03 11:44:20,843 - __main__ - INFO - ✓ Pillow loaded successfully
+2025-08-03 11:44:20,844 - __main__ - INFO - ✓ python-dotenv loaded successfully
+2025-08-03 11:44:20,844 - __main__ - INFO - ✓ All 10 dependencies loaded successfully
+2025-08-03 11:44:20,844 - __main__ - INFO - Checking file system permissions...
+2025-08-03 11:44:20,845 - __main__ - INFO - ✓ Write permissions OK for temp
+2025-08-03 11:44:20,848 - __main__ - INFO - ✓ Write permissions OK for outputs
+2025-08-03 11:44:20,851 - __main__ - INFO - ✓ Write permissions OK for logs
+2025-08-03 11:44:20,857 - __main__ - INFO - ✓ Directory verified: temp
+2025-08-03 11:44:20,857 - __main__ - INFO - ✓ Directory verified: outputs
+2025-08-03 11:44:20,859 - __main__ - INFO - ✓ Directory verified: logs
+2025-08-03 11:44:20,859 - __main__ - INFO - ✓ Directory verified: input
+2025-08-03 11:44:20,860 - __main__ - INFO - Checking enhanced features dependencies...
+2025-08-03 11:44:20,861 - __main__ - INFO - ✓ PACS.008 configuration loaded
+2025-08-03 11:44:20,862 - __main__ - INFO - ✓ Enhanced test generator loaded
+2025-08-03 11:44:20,864 - __main__ - INFO - ✓ All system requirements validated successfully
+2025-08-03 11:44:20,864 - __main__ - INFO - Loading application configuration...
+2025-08-03 11:44:20,865 - __main__ - INFO - ✓ Environment variables loaded
+2025-08-03 11:44:20,870 - __main__ - WARNING - Could not load settings: mutable default <class 'list'> for field SUPPORTED_FORMATS is not allowed: use default_factory
+2025-08-03 11:44:20,871 - __main__ - INFO - 🏦 Enhanced PACS.008 features: ENABLED
+2025-08-03 11:44:20,872 - __main__ - INFO - Checking dependencies...
+2025-08-03 11:44:20,873 - __main__ - INFO - ✓ streamlit loaded successfully
+2025-08-03 11:44:20,873 - __main__ - INFO - ✓ openai loaded successfully
+2025-08-03 11:44:20,873 - __main__ - INFO - ✓ python-docx loaded successfully
+2025-08-03 11:44:20,873 - __main__ - INFO - ✓ PyPDF2 loaded successfully
+2025-08-03 11:44:20,874 - __main__ - INFO - ✓ openpyxl loaded successfully
+2025-08-03 11:44:20,874 - __main__ - INFO - ✓ pandas loaded successfully
+2025-08-03 11:44:20,874 - __main__ - INFO - ✓ pytesseract loaded successfully
+2025-08-03 11:44:20,874 - __main__ - INFO - ✓ opencv-python loaded successfully
+2025-08-03 11:44:20,874 - __main__ - INFO - ✓ Pillow loaded successfully
+2025-08-03 11:44:20,875 - __main__ - INFO - ✓ python-dotenv loaded successfully
+2025-08-03 11:44:20,875 - __main__ - INFO - ✓ All 10 dependencies loaded successfully
+2025-08-03 11:44:20,875 - __main__ - INFO - Checking file system permissions...
+2025-08-03 11:44:20,876 - __main__ - INFO - ✓ Write permissions OK for temp
+2025-08-03 11:44:20,878 - __main__ - INFO - ✓ Write permissions OK for outputs
+2025-08-03 11:44:20,896 - __main__ - INFO - ✓ Write permissions OK for logs
+2025-08-03 11:44:20,908 - __main__ - INFO - Initializing Streamlit application...
+2025-08-03 11:44:20,909 - __main__ - INFO - ✓ Streamlit app imported successfully
+2025-08-03 11:44:20,909 - __main__ - INFO - 🌐 Starting web interface...
+2025-08-03 11:44:21,114 - processors.document_processor - INFO - Processing .pdf file: C:\Users\a\AppData\Local\Temp\tmpzcu7o4c3.pdf
+2025-08-03 11:45:00,504 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 11:45:00,552 - ai_engine.test_generator - INFO - AI Response length: 5832
+2025-08-03 11:45:00,553 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US001",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Payment Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify successful proc...
+2025-08-03 11:45:00,554 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-03 11:45:20,373 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 11:45:20,380 - ai_engine.test_generator - INFO - AI Response length: 4624
+2025-08-03 11:45:20,381 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US002",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Payment Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify successful paym...
+2025-08-03 11:45:20,381 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-03 11:45:41,559 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 11:45:41,562 - ai_engine.test_generator - INFO - AI Response length: 5951
+2025-08-03 11:45:41,563 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US003",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Payment Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify successful FI t...
+2025-08-03 11:45:41,564 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-03 11:46:09,729 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 11:46:09,764 - ai_engine.test_generator - INFO - AI Response length: 5364
+2025-08-03 11:46:09,765 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US004",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid PACS.008 Message Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify succes...
+2025-08-03 11:46:09,767 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-03 11:46:31,253 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 11:46:31,257 - ai_engine.test_generator - INFO - AI Response length: 5211
+2025-08-03 11:46:31,258 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US005",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Multiple pacs.008 Messages Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Ver...
+2025-08-03 11:46:31,261 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-03 11:46:58,978 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 11:46:58,982 - ai_engine.test_generator - INFO - AI Response length: 6122
+2025-08-03 11:46:58,983 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US006",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Multiple pacs.008 Messages Exchange",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verif...
+2025-08-03 11:46:58,985 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-03 11:47:18,862 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 11:47:18,866 - ai_engine.test_generator - INFO - AI Response length: 4633
+2025-08-03 11:47:18,867 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US007",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Payment Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify successful paym...
+2025-08-03 11:47:18,870 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-03 11:47:38,478 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 11:47:38,487 - ai_engine.test_generator - INFO - AI Response length: 5047
+2025-08-03 11:47:38,488 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US008",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Payment Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify successful paym...
+2025-08-03 11:47:38,491 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-03 11:48:02,464 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 11:48:02,468 - ai_engine.test_generator - INFO - AI Response length: 5570
+2025-08-03 11:48:02,469 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US009",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "In-house Payment Without pacs.008",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify that n...
+2025-08-03 11:48:02,474 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-03 11:48:36,225 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-03 11:48:36,234 - ai_engine.test_generator - INFO - AI Response length: 5409
+2025-08-03 11:48:36,235 - ai_engine.test_generator - INFO - AI Response preview: [
+  {
+    "User Story ID": "US010",
+    "Acceptance Criteria ID": "AC001",
+    "Scenario": "Valid Payment Processing",
+    "Test Case ID": "TC001",
+    "Test Case Description": "Verify successful pacs...
+2025-08-03 11:48:36,238 - ai_engine.test_generator - INFO - Successfully parsed 8 test cases using Method 1
+2025-08-03 11:49:40,895 - __main__ - INFO - ============================================================
+2025-08-03 11:49:40,896 - __main__ - INFO - Starting ITASSIST Enhanced Application
+2025-08-03 11:49:40,896 - __main__ - INFO - ============================================================
+2025-08-03 11:49:40,896 - __main__ - INFO - Validating system requirements...
+2025-08-03 11:49:40,897 - __main__ - INFO - Checking environment setup...
+2025-08-03 11:49:40,897 - __main__ - INFO - ✓ Python version: 3.12.9
+2025-08-03 11:49:40,897 - __main__ - INFO - ✓ OCR dependencies loaded successfully
+2025-08-03 11:49:40,897 - __main__ - INFO - ✓ OpenAI API key detected: sk-proj-...C2EA
+2025-08-03 11:49:40,898 - __main__ - INFO - Checking dependencies...
+2025-08-03 11:49:40,898 - __main__ - INFO - ✓ streamlit loaded successfully
+2025-08-03 11:49:40,898 - __main__ - INFO - ✓ openai loaded successfully
+2025-08-03 11:49:40,898 - __main__ - INFO - ✓ python-docx loaded successfully
+2025-08-03 11:49:40,898 - __main__ - INFO - ✓ PyPDF2 loaded successfully
+2025-08-03 11:49:40,899 - __main__ - INFO - ✓ openpyxl loaded successfully
+2025-08-03 11:49:40,899 - __main__ - INFO - ✓ pandas loaded successfully
+2025-08-03 11:49:40,899 - __main__ - INFO - ✓ pytesseract loaded successfully
+2025-08-03 11:49:40,900 - __main__ - INFO - ✓ opencv-python loaded successfully
+2025-08-03 11:49:40,900 - __main__ - INFO - ✓ Pillow loaded successfully
+2025-08-03 11:49:40,908 - __main__ - INFO - ✓ python-dotenv loaded successfully
+2025-08-03 11:49:40,909 - __main__ - INFO - ✓ All 10 dependencies loaded successfully
+2025-08-03 11:49:40,909 - __main__ - INFO - Checking file system permissions...
+2025-08-03 11:49:40,910 - __main__ - INFO - ✓ Write permissions OK for temp
+2025-08-03 11:49:40,913 - __main__ - INFO - ✓ Write permissions OK for outputs
+2025-08-03 11:49:40,915 - __main__ - INFO - ✓ Write permissions OK for logs
+2025-08-03 11:49:40,916 - __main__ - INFO - ✓ Directory verified: temp
+2025-08-03 11:49:40,917 - __main__ - INFO - ✓ Directory verified: outputs
+2025-08-03 11:49:40,920 - __main__ - INFO - ✓ Directory verified: logs
+2025-08-03 11:49:40,920 - __main__ - INFO - ✓ Directory verified: input
+2025-08-03 11:49:40,921 - __main__ - INFO - Checking enhanced features dependencies...
+2025-08-03 11:49:40,921 - __main__ - INFO - ✓ PACS.008 configuration loaded
+2025-08-03 11:49:40,922 - __main__ - INFO - ✓ Enhanced test generator loaded
+2025-08-03 11:49:40,922 - __main__ - INFO - ✓ All system requirements validated successfully
+2025-08-03 11:49:40,924 - __main__ - INFO - Loading application configuration...
+2025-08-03 11:49:40,926 - __main__ - INFO - ✓ Environment variables loaded
+2025-08-03 11:49:40,935 - __main__ - WARNING - Could not load settings: mutable default <class 'list'> for field SUPPORTED_FORMATS is not allowed: use default_factory
+2025-08-03 11:49:40,935 - __main__ - INFO - 🏦 Enhanced PACS.008 features: ENABLED
+2025-08-03 11:49:40,936 - __main__ - INFO - Checking dependencies...
+2025-08-03 11:49:40,937 - __main__ - INFO - ✓ streamlit loaded successfully
+2025-08-03 11:49:40,938 - __main__ - INFO - ✓ openai loaded successfully
+2025-08-03 11:49:40,938 - __main__ - INFO - ✓ python-docx loaded successfully
+2025-08-03 11:49:40,939 - __main__ - INFO - ✓ PyPDF2 loaded successfully
+2025-08-03 11:49:40,939 - __main__ - INFO - ✓ openpyxl loaded successfully
+2025-08-03 11:49:40,939 - __main__ - INFO - ✓ pandas loaded successfully
+2025-08-03 11:49:40,939 - __main__ - INFO - ✓ pytesseract loaded successfully
+2025-08-03 11:49:40,940 - __main__ - INFO - ✓ opencv-python loaded successfully
+2025-08-03 11:49:40,940 - __main__ - INFO - ✓ Pillow loaded successfully
+2025-08-03 11:49:40,940 - __main__ - INFO - ✓ python-dotenv loaded successfully
+2025-08-03 11:49:40,940 - __main__ - INFO - ✓ All 10 dependencies loaded successfully
+2025-08-03 11:49:40,941 - __main__ - INFO - Checking file system permissions...
+2025-08-03 11:49:40,942 - __main__ - INFO - ✓ Write permissions OK for temp
+2025-08-03 11:49:40,943 - __main__ - INFO - ✓ Write permissions OK for outputs
+2025-08-03 11:49:40,946 - __main__ - INFO - ✓ Write permissions OK for logs
+2025-08-03 11:49:40,948 - __main__ - INFO - Initializing Streamlit application...
+2025-08-03 11:49:40,948 - __main__ - INFO - ✓ Streamlit app imported successfully
+2025-08-03 11:49:40,948 - __main__ - INFO - 🌐 Starting web interface...
+2025-08-03 11:49:43,704 - __main__ - INFO - ============================================================
+2025-08-03 11:49:43,705 - __main__ - INFO - Starting ITASSIST Enhanced Application
+2025-08-03 11:49:43,706 - __main__ - INFO - ============================================================
+2025-08-03 11:49:43,709 - __main__ - INFO - Validating system requirements...
+2025-08-03 11:49:43,710 - __main__ - INFO - Checking environment setup...
+2025-08-03 11:49:43,716 - __main__ - INFO - ✓ Python version: 3.12.9
+2025-08-03 11:49:43,716 - __main__ - INFO - ✓ OCR dependencies loaded successfully
+2025-08-03 11:49:43,717 - __main__ - INFO - ✓ OpenAI API key detected: sk-proj-...C2EA
+2025-08-03 11:49:43,728 - __main__ - INFO - Checking dependencies...
+2025-08-03 11:49:43,729 - __main__ - INFO - ✓ streamlit loaded successfully
+2025-08-03 11:49:43,812 - __main__ - INFO - ✓ openai loaded successfully
+2025-08-03 11:49:43,878 - __main__ - INFO - ✓ python-docx loaded successfully
+2025-08-03 11:49:43,917 - __main__ - INFO - ✓ PyPDF2 loaded successfully
+2025-08-03 11:49:43,984 - __main__ - INFO - ✓ openpyxl loaded successfully
+2025-08-03 11:49:44,029 - __main__ - INFO - ✓ pandas loaded successfully
+2025-08-03 11:49:44,030 - __main__ - INFO - ✓ pytesseract loaded successfully
+2025-08-03 11:49:44,030 - __main__ - INFO - ✓ opencv-python loaded successfully
+2025-08-03 11:49:44,032 - __main__ - INFO - ✓ Pillow loaded successfully
+2025-08-03 11:49:44,032 - __main__ - INFO - ✓ python-dotenv loaded successfully
+2025-08-03 11:49:44,033 - __main__ - INFO - ✓ All 10 dependencies loaded successfully
+2025-08-03 11:49:44,034 - __main__ - INFO - Checking file system permissions...
+2025-08-03 11:49:44,043 - __main__ - INFO - ✓ Write permissions OK for temp
+2025-08-03 11:49:44,046 - __main__ - INFO - ✓ Write permissions OK for outputs
+2025-08-03 11:49:44,048 - __main__ - INFO - ✓ Write permissions OK for logs
+2025-08-03 11:49:44,062 - __main__ - INFO - ✓ Directory verified: temp
+2025-08-03 11:49:44,063 - __main__ - INFO - ✓ Directory verified: outputs
+2025-08-03 11:49:44,063 - __main__ - INFO - ✓ Directory verified: logs
+2025-08-03 11:49:44,064 - __main__ - INFO - ✓ Directory verified: input
+2025-08-03 11:49:44,064 - __main__ - INFO - Checking enhanced features dependencies...
+2025-08-03 11:49:44,064 - __main__ - INFO - ✓ PACS.008 configuration loaded
+2025-08-03 11:49:44,064 - __main__ - INFO - ✓ Enhanced test generator loaded
+2025-08-03 11:49:44,065 - __main__ - INFO - ✓ All system requirements validated successfully
+2025-08-03 11:49:44,066 - __main__ - INFO - Loading application configuration...
+2025-08-03 11:49:44,067 - __main__ - INFO - ✓ Environment variables loaded
+2025-08-03 11:49:44,079 - __main__ - WARNING - Could not load settings: mutable default <class 'list'> for field SUPPORTED_FORMATS is not allowed: use default_factory
+2025-08-03 11:49:44,080 - __main__ - INFO - 🏦 Enhanced PACS.008 features: ENABLED
+2025-08-03 11:49:44,081 - __main__ - INFO - Checking dependencies...
+2025-08-03 11:49:44,084 - __main__ - INFO - ✓ streamlit loaded successfully
+2025-08-03 11:49:44,084 - __main__ - INFO - ✓ openai loaded successfully
+2025-08-03 11:49:44,084 - __main__ - INFO - ✓ python-docx loaded successfully
+2025-08-03 11:49:44,095 - __main__ - INFO - ✓ PyPDF2 loaded successfully
+2025-08-03 11:49:44,097 - __main__ - INFO - ✓ openpyxl loaded successfully
+2025-08-03 11:49:44,098 - __main__ - INFO - ✓ pandas loaded successfully
+2025-08-03 11:49:44,099 - __main__ - INFO - ✓ pytesseract loaded successfully
+2025-08-03 11:49:44,100 - __main__ - INFO - ✓ opencv-python loaded successfully
+2025-08-03 11:49:44,101 - __main__ - INFO - ✓ Pillow loaded successfully
+2025-08-03 11:49:44,108 - __main__ - INFO - ✓ python-dotenv loaded successfully
+2025-08-03 11:49:44,108 - __main__ - INFO - ✓ All 10 dependencies loaded successfully
+2025-08-03 11:49:44,109 - __main__ - INFO - Checking file system permissions...
+2025-08-03 11:49:44,111 - __main__ - INFO - ✓ Write permissions OK for temp
+2025-08-03 11:49:44,114 - __main__ - INFO - ✓ Write permissions OK for outputs
+2025-08-03 11:49:44,117 - __main__ - INFO - ✓ Write permissions OK for logs
+2025-08-03 11:49:44,123 - __main__ - INFO - Initializing Streamlit application...
+2025-08-03 11:49:44,123 - __main__ - INFO - ✓ Streamlit app imported successfully
+2025-08-03 11:49:44,124 - __main__ - INFO - 🌐 Starting web interface...
